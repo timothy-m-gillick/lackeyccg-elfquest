@@ -1,0 +1,5 @@
+ElfQuest-QuestfortheOldOnes	08-03-22
+plugins/ElfQuest-QuestfortheOldOnes/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-elfquest/raw/main/plugininfo.txt	174194
+plugins/ElfQuest-QuestfortheOldOnes/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-elfquest/raw/main/cardback.jpg	410998
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/13jq1EaImow-mcI-J7aoyVQnZ9c8l_M_t?usp=sharing
